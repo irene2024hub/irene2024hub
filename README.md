@@ -1,0 +1,9 @@
+Hi, i'm Mrs Irene Ayakazi
+- i'm in learning new things that will expand my knowledge 
+- I'm currently learning Data Analysis with Incubator hub and i am currently documenting my project...
+-I'm looking to collaborate with any company that needs Data Analysis staff 
+- you can reach me on my github account https://github.com/irene2024hub/irene2024hub/tree/main and you also contact me vai my moblie no. +2348088558733..
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+
