@@ -43,7 +43,7 @@ Open to opportunities
 
 Contact
 
-👉 GitHub: Explore my repositories here
+👉 GitHub: https://github.com/irene2024hub?tab=repositories
 
 👉 LinkedIn: https://www.linkedin.com/in/irene-ayakazi/
 
