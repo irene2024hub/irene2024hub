@@ -4,7 +4,7 @@ I’m a Data Analyst and Data Scientist with formal training and practical exper
 
 - I’ve completed intensive training with Incubator Hub, where I worked across data analysis, machine learning, data science, and AI concepts. Along the way, I built and deployed multiple projects on different problem domains, focusing on practical use cases rather than textbook examples.
 
-- I also completed an internship with Elite Global AI, where I gained real-world exposure, improved my analytical thinking, and collaborated on applied AI and data-driven tasks. Currently, I’m expanding into AI automation, designing workflows and automation solutions that improve efficiency and reduce manual effort.
+- I also completed an internship with Elite Global AI , where I gained real-world exposure, improved my analytical thinking, and collaborated on applied AI and data-driven tasks. C AI automation, I have completed intensive internship with Hordanso LTD where i gained knowledge in designing workflows and automation solutions that improve efficiency and reduce manual effort.
 
 What I do;
 
