@@ -1,47 +1,34 @@
-Hi, I’m Irene Ufuoma Ayakazi 👋
 
-I’m a Data Analyst and Data Scientist with formal training and practical experience across Data Analysis, Artificial Intelligence, Machine Learning, and Data Science. I’m also actively building a strong, hands-on foundation in AI Automation, with real projects to show for it.
+# Hi, I'm Irene Ufuoma Ayakazi 👋
 
-- I’ve completed intensive training with Incubator Hub, where I worked across data analysis, machine learning, data science, and AI concepts. Along the way, I built and deployed multiple projects on different problem domains, focusing on practical use cases rather than textbook examples.
+I'm a **Data Scientist** and **Data Analyst** passionate about transforming data into actionable insights and building intelligent, real-world solutions. My expertise spans **Data Analysis, Machine Learning, Artificial Intelligence, Data Science, and AI Automation**, with a strong focus on solving practical business and societal challenges through data-driven innovation.
 
-- I also completed an internship with Elite Global AI , where I gained real-world exposure, improved my analytical thinking, and collaborated on applied AI and data-driven tasks. C AI automation, I have completed intensive internship with Hordanso LTD where i gained knowledge in designing workflows and automation solutions that improve efficiency and reduce manual effort.
+## About Me
 
-What I do;
+* 🎓 Completed intensive training with **Incubator Hub**, where I developed practical expertise in **SQL, Excel, Power BI, Python, Machine Learning, and Data Science**. During the program, I built and deployed multiple end-to-end projects across various domains, emphasizing real-world applications over theoretical exercises.
 
-- Data Analysis and Insights Generation
+* 💼 Successfully completed an internship with **Elite Global Intelligence Technologies**, gaining hands-on experience in data analytics, machine learning, and AI-driven solutions. I collaborated on practical projects that strengthened my analytical thinking, problem-solving abilities, and model development skills.
 
-- Python for Data Science and Machine Learning
+* 🤖 Completed an intensive **AI Automation Internship** with **Hordanso Ltd**, where I designed intelligent automation workflows using modern automation tools and AI technologies. My work focused on streamlining business processes, integrating applications, and reducing manual effort through scalable automation solutions.
 
-- Applied Machine Learning projects
+## What I Enjoy Building
 
-- AI and Data-driven problem solving
+* 📊 Data Analytics Dashboards and Business Intelligence Solutions
+* 🤖 Machine Learning and Predictive Models
+* 🧠 Artificial Intelligence Applications
+* ⚡ AI Automation Workflows
+* 🗄️ SQL Databases and Data Pipelines
+* 📈 End-to-End Data Science Projects
 
-- AI Automation workflows and process optimization
+## Current Focus
 
+I'm continuously expanding my expertise in **Machine Learning, Generative AI, AI Automation, and Full-Stack Data Science**, while building projects
+that demonstrate how data and AI can solve real-world problems and create measurable impact.
 
-**Projects & Portfolio**
-
-- I’ve built a strong technical portfolio on GitHub, featuring projects across:
-
-- Data analysis and visualization
-
-- Machine learning models
-
-- Data science case studies
-
-- AI automation projects
+> **"Turning data into insights, models into intelligent solutions, and automation into business value."**
 
 
-- Each project is documented to explain my thinking, approach, and results.
 
-All links are available here for recruiters, collaborators, and clients to review.
-
-Open to opportunities
-
- 👉 I’m currently available for freelance roles, contract work, and project-based collaborations. 
- I’m especially interested in opportunities where data, AI, and automation intersect to solve real business problems.
-
-Contact
 
 👉 GitHub: https://github.com/irene2024hub?tab=repositories
 
