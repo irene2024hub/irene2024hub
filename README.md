@@ -1,7 +1,7 @@
 
 # Hi, I'm Irene Ufuoma Ayakazi 👋
 
-I'm a **Data Scientist** and **Data Analyst** passionate about transforming data into actionable insights and building intelligent, real-world solutions. My expertise spans **Data Analysis, Machine Learning, Artificial Intelligence, Data Science, and AI Automation**, with a strong focus on solving practical business and societal challenges through data-driven innovation.
+I'm a **Data Scientist** and **Machine Learning Engineer** passionate about transforming data into actionable insights and building intelligent, real-world solutions. My expertise spans **Data Analysis, Machine Learning, Artificial Intelligence, Data Science, and AI Automation**, with a strong focus on solving practical business and societal challenges through data-driven innovation.
 
 ## About Me
 
