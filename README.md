@@ -11,7 +11,7 @@ I'm a **Data Scientist** and **Machine Learning Engineer** passionate about tran
 
 * 🤖 Completed an intensive **AI Automation Internship** with **Hordanso Ltd**, where I designed intelligent automation workflows using modern automation tools and AI technologies. My work focused on streamlining business processes, integrating applications, and reducing manual effort through scalable automation solutions.
 
-  *I have started an internship with **Zidio Development** as a Data Science and Analytics Intern. I look forward to applying my skills in data analysis, machine learning, and business insights while gaining practical industry experience and contributing to real-world projects.
+  * I have started an internship with **Zidio Development** as a Data Science and Analytics Intern. I look forward to applying my skills in data analysis, machine learning, and business insights while gaining practical industry experience and contributing to real-world projects.
 
 ## What I Enjoy Building
 
