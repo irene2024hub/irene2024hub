@@ -1,33 +1,91 @@
-
 # Hi, I'm Irene Ufuoma Ayakazi 👋
 
-I'm a **Data Scientist** and **Machine Learning Engineer** passionate about transforming data into actionable insights and building intelligent, real-world solutions. My expertise spans **Data Analysis, Machine Learning, Artificial Intelligence, Data Science, and AI Automation**, with a strong focus on solving practical business and societal challenges through data-driven innovation.
+### Data Scientist | Machine Learning Engineer
 
-## About Me
+I am a Data Scientist and Machine Learning Engineer passionate about using data and machine learning to solve real-world problems. I enjoy transforming raw data into actionable insights, developing predictive models, and building data-driven applications that support better decision-making.
 
-* 🎓 Completed intensive training with **Incubator Hub**, where I developed practical expertise in **SQL, Excel, Power BI, Python, Machine Learning, and Data Science**. During the program, I built and deployed multiple end-to-end projects across various domains, emphasizing real-world applications over theoretical exercises.
+I am also expanding my knowledge of AI Engineering and Generative AI to develop more intelligent and practical applications.
 
-* 💼 Successfully completed an internship with **Elite Global Intelligence Technologies**, gaining hands-on experience in data analytics, machine learning, and AI-driven solutions. I collaborated on practical projects that strengthened my analytical thinking, problem-solving abilities, and model development skills.
+## 👩‍💻 About Me
 
-* 🤖 Completed an intensive **AI Automation Internship** with **Hordanso Ltd**, where I designed intelligent automation workflows using modern automation tools and AI technologies. My work focused on streamlining business processes, integrating applications, and reducing manual effort through scalable automation solutions.
+- 📊 **Data Science & Analytics:** Experienced in data cleaning, exploratory data analysis (EDA), data visualisation, and extracting insights to support informed decisions.
+- 🤖 **Machine Learning:** Developing predictive models using classification, regression, feature engineering, ensemble learning, and model evaluation techniques.
+- 💼 **Professional Experience:** Bringing over 14 years of experience in finance, operations, database management, and data-driven decision-making.
+- 🎓 **Technical Training:** Completed practical training with Incubator Hub and gained hands-on data analytics experience during my internship at Elite Global Intelligence Technologies.
+- ⚡ **AI Automation:** Gained practical experience building automated workflows and integrating applications and APIs during my internship with Hordanso Ltd.
+- 🧠 **Continuous Learning:** Currently studying Generative AI through Digital Skillup Africa (DSA 2.0), empowered by Incubator Hub.
+- 🚀 **Career Development:** Strengthening my machine learning and software development skills while progressing towards AI Engineering.
 
-  * I have started an internship with **Zidio Development** as a Data Science and Analytics Intern. I look forward to applying my skills in data analysis, machine learning, and business insights while gaining practical industry experience and contributing to real-world projects.
+## 🛠️ Technical Skills
 
-## What I Enjoy Building
+### Programming & Data Analysis
+- Python and SQL
+- Pandas and NumPy
+- Data Cleaning and Exploratory Data Analysis (EDA)
+- Feature Engineering and Statistical Analysis
 
-* 📊 Data Analytics Dashboards and Business Intelligence Solutions
-* 🤖 Machine Learning and Predictive Models
-* 🧠 Artificial Intelligence Applications
-* ⚡ AI Automation Workflows
-* 🗄️ SQL Databases and Data Pipelines
-* 📈 End-to-End Data Science Projects
+### Machine Learning
+- Scikit-learn
+- LightGBM, XGBoost, and Random Forest
+- Classification and Regression
+- Ensemble Learning
+- Model Evaluation and Cross-Validation
+- Probability Calibration and Explainable AI
 
-## Current Focus
+### Data Visualisation & Business Intelligence
+- Power BI and Excel
+- Matplotlib, Seaborn, and Plotly
+- Streamlit Dashboards
 
-I'm continuously expanding my expertise in **Machine Learning, Generative AI, AI Automation, and Full-Stack Data Science**, while building projects
-that demonstrate how data and AI can solve real-world problems and create measurable impact.
+### Tools, Deployment & Automation
+- Git and GitHub
+- Jupyter Notebook, Google Colab, and VS Code
+- Streamlit Application Deployment
+- Docker
+- APIs and Workflow Automation
+- n8n and GoHighLevel
 
-> **"Turning data into insights, models into intelligent solutions, and automation into business value."**
+## 🚀 What I Build
+
+- **Predictive Machine Learning Models:** Models that identify patterns and estimate likely outcomes from data.
+- **Data Analytics & Business Intelligence Solutions:** Interactive dashboards and reports that turn complex data into meaningful insights.
+- **End-to-End Data Science Projects:** Complete workflows covering data preparation, analysis, feature engineering, model development, evaluation, and deployment.
+- **AI-Powered Applications:** Practical applications that use machine learning and emerging AI technologies to address real-world problems.
+- **Data-Driven Decision Support Systems:** Solutions that help organisations understand risks, identify opportunities, and make informed decisions.
+- **AI Automation Workflows:** Automated processes that connect applications, integrate APIs, and reduce repetitive tasks.
+
+## 📌 Featured Projects
+
+My repositories showcase practical projects in data science, machine learning, predictive analytics, and AI-powered decision support.
+
+Some of the areas covered include:
+
+- **Financial Risk Prediction:** Using machine learning to identify potential financial stress.
+- **Customer Behaviour Prediction:** Analysing customer characteristics to predict likely purchasing decisions.
+- **Student Wellbeing Risk Prediction:** Applying predictive analytics to support early identification of potential wellbeing risks.
+- **Electricity Generation Monitoring:** Using anomaly detection and geospatial insights to support power plant monitoring in Nigeria.
+
+I aim to make my projects reproducible and easy to understand through clear documentation, well-organised code, model evaluation results, and deployed applications where available.
+
+## 🌱 Current Learning Focus
+
+- Generative AI and Large Language Models (LLMs)
+- AI Engineering and Intelligent Applications
+- Advanced Machine Learning and Model Optimisation
+- Model Deployment and AI Application Integration
+
+## 🤝 Let's Connect
+
+I welcome opportunities to collaborate on data science, machine learning, and AI-related projects that solve practical problems and create meaningful value.
+
+- **GitHub:** [@irene2024hub](https://github.com/irene2024hub)
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/irene-ayakazi/)
+- **Email:** [irenecollectionshub@gmail.com](mailto:irenecollectionshub@gmail.com)
+
+---
+
+*Turning data into insights and building predictive solutions for real-world problems.*
+
 
 
 
